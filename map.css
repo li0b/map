@@ -1,0 +1,62 @@
+td {
+  text-align: center;
+	font-size: 0.85em;
+}
+
+td a {
+	color: #000000;
+	text-decoration: none;
+}
+
+td a:hover {
+	color: #ffffff
+}
+
+.hokkaido {
+	background-color: #66CC00;
+}
+
+.tohoku {
+	background-color: #00CCFF;
+}
+
+.kanto {
+	background-color: #00CC33;	
+}
+
+.tyubu {
+	background-color: #FF6633;
+}
+
+.kinnki {
+	background-color: #FF3399;
+}
+
+.tyugoku {
+	background-color: #6666FF;
+}
+
+.shikoku {
+	background-color: #339966;
+}
+
+.kyusyu {
+	background-color: #FF9933;
+}
+
+.auth {
+	float: right;
+}
+
+.auth li {
+	list-style-type: none;
+}
+
+.auth  a {
+	color: #000000;
+	text-decoration: none;
+}
+
+.auth a:hover {
+	color: #ffffff;
+}
